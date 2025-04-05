@@ -1,0 +1,32 @@
+[
+    {
+        "action": "使用關鍵字「人類用火歷史」、「早期人類 無火」、「史前時代 無火生活」搜尋相關資訊。",
+        "ifneed tool": true,
+        "tools": "tavily",
+        "prompt": "人類用火歷史 OR 早期人類 無火 OR 史前時代 無火生活"
+    },
+    {
+        "action": "檢閱搜尋結果，了解人類開始用火的時間軸，並確認在過去是否存在人類不使用火的時期。",
+        "ifneed tool": true,
+        "tools": "tavily",
+        "prompt": "檢閱搜尋結果，了解人類開始用火的時間軸，並確認在過去是否存在人類不使用火的時期。"
+    },
+    {
+        "action": "想像並描述在沒有火的情況下，人類的生活會是什麼樣子，考慮食物、住所、保護、社會結構和技術發展等方面。",
+        "ifneed tool": false,
+        "tools": "",
+        "prompt": ""
+    },
+    {
+        "action": "綜合研究和想像，形成對沒有火的時代人類生活的理解。",
+        "ifneed tool": true,
+        "tools": "tavily",
+        "prompt": "research on daily life of early humans before fire"
+    },
+    {
+        "action": "根據研究和分析，總結沒有火的時代人類生活可能的樣貌。",
+        "ifneed tool": true,
+        "tools": "gemini-2.0-flash-thinking-exp-01-21",
+        "prompt": ""
+    }
+]
